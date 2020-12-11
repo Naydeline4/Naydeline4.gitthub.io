@@ -6,6 +6,9 @@ Las redes neuronales artificiales son un modelo computacional vagamente inspirad
 teoría de gráficas, es una rama de las matemáticas y las ciencias de la computación que estudia las propiedades de los grafos. Los grafos no deben ser confundidos con las gráficas, que es un término muy amplio.
 <img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fish_graph.svg/1200px-Fish_graph.svg.png">
+<video src="https://youtu.be/dP7-gXXXiaM">
+
+
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
